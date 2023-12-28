@@ -16,8 +16,7 @@ export default function ContactPage() {
                     <p>Part of our strategy is to capitalize on the SEO opportunities available within futuristic AI industries. We have invested in around 200 domain names across various emerging technology sectors like deepfake technology, autonomous systems, AI companions, and AI agents. Our plan is to use our AI tool to populate these domains with quality, SEO-optimized content, and build a monopoly on the SEO keywords relevant to these industries.</p>
                     <p>This puts us in a unique position to provide valuable web properties. As these industries mature, the value of these domains will increase. We will then have the option to sell these websites based on their premium domain names, SEO value, and traffic generated, providing a promising return on our investments.</p>
                     <p>However, we are not solely profit-focused. At {EnvVars.SITE_NAME}, we believe in the power of open source and collaboration. Our plan is not only to sell but also to continue developing these websites and technologies, with the hope that they will contribute to the advancement of AI and technology as a whole. We aspire to foster a community where developers can collaborate, contribute, and build upon our work to further improve these AI tools.</p>
-                    <p>We are excited to be on this journey and look forward to the many opportunities it will bring. We invite you to join us as we explore the future of AI and web development. For more information you can reach out to me via <a href="
-">Linkedin</a></p>
+                    <p>We are excited to be on this journey and look forward to the many opportunities it will bring. We invite you to join us as we explore the future of AI and web development. For more information you can reach out using the contact page.</p>
                 </RichText>
             </PrivacyPolicyContainer>
         </Page>
